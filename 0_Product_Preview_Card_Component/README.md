@@ -2,6 +2,9 @@
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). The goal is to build a responsive product card using semantic HTML and modern CSS.
 
+
+## Live Preview : https://productpreviewcomponentview.vercel.app/
+
 ## Table of Contents
 
 - [Overview](#overview)
