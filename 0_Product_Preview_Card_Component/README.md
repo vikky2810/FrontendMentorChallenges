@@ -73,8 +73,7 @@ No build tools or dependencies are required.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://twitter.com/yourusername)
+- Email - kamblevikram2810@gmail.com
 
 ## Acknowledgments
 
