@@ -6,6 +6,8 @@ These are just challenges that I am working on to improve my frontend developmen
 
 - **[Project 1: Product Preview Card Component ](./0_Product_Preview_Card_Component/)**
 
+- **[Project 2: Recipe Page](./1_Recipe_Page/)**
+
 Check each folder for a README with more details, screenshots, and live demo links.
 
 
