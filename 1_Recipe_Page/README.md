@@ -4,7 +4,11 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Live Preview
 
-[Live Demo](#) <!-- Replace # with your live site link if available -->
+[Live Demo]()
+
+## Preview
+
+![Recipe Page Preview](images/recipe.jpg)
 
 ## Table of Contents
 
