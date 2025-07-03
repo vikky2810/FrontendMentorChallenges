@@ -4,7 +4,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Live Preview
 
-[Live Demo]()
+[Live Demo](https://recipe-page-frontend-mentor-eta.vercel.app)
 
 ## Preview
 
