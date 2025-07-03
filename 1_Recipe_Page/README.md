@@ -8,7 +8,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Preview
 
-![Recipe Page Preview](images/recipe.jpg)
+![Recipe Page Preview](preview.jpg)
 
 ## Table of Contents
 
