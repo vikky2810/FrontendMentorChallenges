@@ -1,3 +1,10 @@
+/* import font  */
+
+@font-face {
+    font-family: "figtree" ;
+    src: url(./assets/fonts/Figtree-Italic-VariableFont_wght.ttf);
+}
+
 :root{
 
     /* Basics colors  */
@@ -6,4 +13,9 @@
     --clr-para : hsl(0, 0%, 42%)
     --clr-title : hsl(0, 0%, 7%);
 
+    /* Font family  */
+    --ff-body : 
 }
+
+
+
