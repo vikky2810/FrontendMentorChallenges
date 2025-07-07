@@ -1,0 +1,9 @@
+:root{
+
+    /* Basics colors  */
+    --clr-bg-yl : hsl(47, 88%, 63%);
+    --clr-con-white : hsl(0, 0%, 100%);
+    --clr-para : hsl(0, 0%, 42%)
+    --clr-title : hsl(0, 0%, 7%);
+
+}
