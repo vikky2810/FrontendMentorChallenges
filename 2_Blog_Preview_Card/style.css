@@ -14,7 +14,12 @@
     --clr-title : hsl(0, 0%, 7%);
 
     /* Font family  */
-    --ff-body : 
+    --ff-body : "figtree", sans-serif;
+
+    /* font weights */
+    --fw-light : 500;   
+    --fw-dark: 800;
+
 }
 
 
