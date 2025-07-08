@@ -8,6 +8,8 @@ These are just challenges that I am working on to improve my frontend developmen
 
 - **[Project 2: Recipe Page](./1_Recipe_Page/)**
 
+- **[Project 3: Still working] (./2_Blog_Preview_Card)**
+
 Check each folder for a README with more details, screenshots, and live demo links.
 
 
