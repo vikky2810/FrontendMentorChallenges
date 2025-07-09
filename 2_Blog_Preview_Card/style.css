@@ -94,9 +94,12 @@ body{
     margin: 0 auto;
     margin-top: 5%;
     width: 25%;
-    border-radius: 10px;
+    border-radius: 16px;
 
-    box-shadow: 5px 6px  ;
+    box-shadow: 7px 6px  ;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
+#art{
+    border-radius: 15px;
+}
