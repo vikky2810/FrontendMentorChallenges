@@ -74,6 +74,31 @@ h1, h2, h3, h4, h5, h6 {
   text-wrap: balance;
 }
 
+body{
+    background: var(--clr-bg-yl);
+    font-family: var(--ff-body);
+    color: var(--clr-title);
+    font-weight: var(--fw-light);
+    font-size: var(--fs-para);
+    max-height: 100vh;
+}
+
+.container{
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 2rem;
+    background-color: var(--clr-con-white);
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 3rem;
+    border : 3px solid red;
+    width: 30%;
+    
+
+}
+
 
 
 
