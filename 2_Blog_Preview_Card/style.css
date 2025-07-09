@@ -101,5 +101,9 @@ body{
 }
 
 #art{
-    border-radius: 15px;
+    border-radius: 10px;
+}
+
+.tag-title{
+    text-align: left;
 }
