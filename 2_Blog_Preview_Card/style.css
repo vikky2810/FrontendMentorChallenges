@@ -88,17 +88,15 @@ body{
     display: flex;
     justify-content: center;
     flex-direction: column;
-    padding: 2rem;
+    padding: 0.825rem;
     background-color: var(--clr-con-white);
     align-items: center;
     margin: 0 auto;
-    margin-top: 3rem;
-    border : 3px solid red;
-    width: 30%;
-    
+    margin-top: 5%;
+    width: 25%;
+    border-radius: 10px;
 
+    box-shadow: 5px 6px  ;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
-
-
-
 
