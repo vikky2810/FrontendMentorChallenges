@@ -147,3 +147,28 @@ body{
   color: black;
   font-size: 1rem;
 }
+
+.writer-info{
+  display: flex;
+  
+  align-items: center;
+  width: 70%;
+  border: 2px solid red;
+}
+.writer-info .profile img{
+  border-radius: 50%;
+  width: 3rem;
+}
+.writer-name {
+  display: flex;
+  justify-content: flex-start;
+  border: 2px solid blue;
+}
+.profile{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    margin-top: 1rem;
+
+}
