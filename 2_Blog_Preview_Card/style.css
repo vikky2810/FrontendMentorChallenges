@@ -88,13 +88,14 @@ body{
     justify-content: flex-start;
     align-items: flex-start;
     width: 100%;
+    max-width: 400px;
     flex-direction: column;
     padding: 1rem;
     background-color: var(--clr-con-white);
     align-items: flex-start;
-    margin: 0 auto;
-    margin-top: 3%;
-    width: 26%;
+    margin: 5% auto 0 auto;
+    margin-top: 5%;
+    /* width: 26%; */
     border-radius: 16px;
     border: 0.01rem solid rgb(82, 82, 82);
     box-shadow: 7px 6px  ;
