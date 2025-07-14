@@ -85,16 +85,17 @@ body{
 
 .container{
     display: flex;
+    flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
     width: 100%;
     max-width: 400px;
     flex-direction: column;
-    padding: 1rem;
+    padding: 2rem;
     background-color: var(--clr-con-white);
     align-items: flex-start;
     margin: 5% auto 0 auto;
-    margin-top: 5%;
+    /* margin-top: 5%; */
     /* width: 26%; */
     border-radius: 16px;
     border: 0.01rem solid rgb(82, 82, 82);
